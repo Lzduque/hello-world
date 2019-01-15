@@ -1,1 +1,1 @@
-Hello World!!! 
+﻿Open a text editor. Now write a couple of lines of text, perhaps say hello
